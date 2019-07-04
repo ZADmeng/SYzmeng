@@ -1,4 +1,5 @@
 # SYzmeng
+```
 allprojects {
     repositories {
         google()
@@ -7,3 +8,4 @@ allprojects {
     }
 }
     androidTestImplementation 'com.sy.zmeng:ZADSdk:1.0.0'
+    ```
