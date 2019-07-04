@@ -31,7 +31,7 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
     api files('libs/Baidu_MobAds_SDK.jar')
-    api files('libs/classes.jar')
+    api files('libs/zmeng_b_classes.jar')
 }
 uploadArchives {
     repositories.mavenDeployer {
