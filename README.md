@@ -8,5 +8,7 @@ allprojects {
     }
 }
 
-implementation 'com.sy.zmeng:ZADSdk:1.0.0'
+implementation 'com.sy.zmeng:ZADSdk:xx.xx.xx'		// 填写具体版本号
 ```
+
+
