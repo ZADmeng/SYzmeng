@@ -44,15 +44,10 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <artifactId>open_ad_sdk</artifactId>
-      <type>aar</type>
+      <groupId>com.sy.zmeng</groupId>
+      <artifactId>sourceD</artifactId>
+      <version>1.0.1</version>
       <scope>compile</scope>
-      <exclusions>
-        <exclusion>
-          <artifactId>*</artifactId>
-          <groupId>*</groupId>
-        </exclusion>
-      </exclusions>
     </dependency>
     <dependency>
       <groupId>com.sy.zmeng</groupId>
