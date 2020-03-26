@@ -3,7 +3,7 @@
   <groupId>com.sy.zmeng</groupId>
   <artifactId>ZADSdk</artifactId>
   <versioning>
-    <release>3.3.263.22</release>
+    <release>3.3.264.22</release>
     <versions>
       <version>1.0.3</version>
       <version>1.0.4</version>
@@ -74,7 +74,8 @@
       <version>3.3.261.127</version>
       <version>3.3.262.127</version>
       <version>3.3.263.22</version>
+      <version>3.3.264.22</version>
     </versions>
-    <lastUpdated>20200325180549</lastUpdated>
+    <lastUpdated>20200326072025</lastUpdated>
   </versioning>
 </metadata>
