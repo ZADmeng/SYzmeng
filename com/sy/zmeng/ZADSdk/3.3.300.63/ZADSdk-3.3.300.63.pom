@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.sy.zmeng</groupId>
   <artifactId>ZADSdk</artifactId>
-  <version>3.4.001.63</version>
+  <version>3.3.300.63</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
