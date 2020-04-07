@@ -3,14 +3,15 @@
   <groupId>com.sy.zmeng</groupId>
   <artifactId>sourceC</artifactId>
   <versioning>
-    <release>1.1.3</release>
+    <release>1.1.3.0</release>
     <versions>
       <version>1.0.0</version>
       <version>1.1.0</version>
       <version>1.1.1</version>
       <version>1.1.2</version>
       <version>1.1.3</version>
+      <version>1.1.3.0</version>
     </versions>
-    <lastUpdated>20200407054750</lastUpdated>
+    <lastUpdated>20200407115145</lastUpdated>
   </versioning>
 </metadata>
